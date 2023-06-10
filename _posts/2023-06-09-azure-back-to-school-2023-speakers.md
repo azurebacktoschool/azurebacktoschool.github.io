@@ -23,7 +23,7 @@ tags:
 
 ## **2023 Current List of Speakers - UPDATED 9 JUNE 2023**
 
-<script type="text/javascript" src="https://sessionize.com/api/v2/muvnnfbd/view/Speakers"></script>
+<script type="text/javascript" src="https://sessionize.com/api/v2/muvnnfbd/view/SpeakerWall"></script>
 
 **Schedule will be online by 15 August 2023 at <https://azurebacktoschool.github.io>**
 
