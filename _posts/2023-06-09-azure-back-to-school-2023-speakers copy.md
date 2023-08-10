@@ -25,5 +25,5 @@ tags:
 
 <script type="text/javascript" src="https://sessionize.com/api/v2/muvnnfbd/view/SpeakerWall"></script>
 
-**Schedule will be online by 15 August 2023 at <https://azurebacktoschool.github.io>**
+**Schedule will be online on 11 August 2023 at <https://azurebacktoschool.github.io>**
 
