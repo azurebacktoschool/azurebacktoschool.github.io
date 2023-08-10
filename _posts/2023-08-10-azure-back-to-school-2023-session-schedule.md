@@ -1,5 +1,5 @@
 ---
-title: "Azure Back to School - 2023 - List of Speakers"
+title: "Azure Back to School - 2023 - Session Schedule"
 categories:
   - Edge Case
 tags:
