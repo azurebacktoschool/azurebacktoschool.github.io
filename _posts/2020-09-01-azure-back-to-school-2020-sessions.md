@@ -1,5 +1,5 @@
 ---
-title: "Azure Back to School - 2020"
+title: "Azure Back to School - 2020 - Sessions"
 categories:
   - Edge Case
 tags:
