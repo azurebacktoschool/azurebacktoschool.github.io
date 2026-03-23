@@ -1,5 +1,5 @@
 ---
-title: "Azure Back to School - 2025 - Session Schedule"
+title: "Azure Back to School - 2025 - Sessions"
 categories:
   - Edge Case
 tags:
