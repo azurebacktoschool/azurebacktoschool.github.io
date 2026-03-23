@@ -1,5 +1,5 @@
 ---
-title: "Cyber Back to School - 2024 - Session Schedule"
+title: "Cyber Back to School - 2025 - Session Schedule"
 categories:
   - Edge Case
 tags:
@@ -21,6 +21,6 @@ tags:
 
 ![Cyber Back to School Logo](/images/Cyber_rectangular_logo_without_background.png)
 
-## **2024 Cyber Back to School Session Schedule**
+## **2025 Cyber Back to School Session Schedule**
 
-<script type="text/javascript" src="https://sessionize.com/api/v2/k8i9zobk/view/Sessions"></script>
+<script type="text/javascript" src="https://sessionize.com/api/v2/8gcddiqo/view/Sessions"></script>
