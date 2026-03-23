@@ -1,5 +1,5 @@
 ---
-title: "Cyber Back to School - 2025 - Session Schedule"
+title: "Cyber Back to School - 2025 - Sessions"
 categories:
   - Edge Case
 tags:
