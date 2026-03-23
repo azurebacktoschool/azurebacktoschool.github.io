@@ -19,7 +19,7 @@ tags:
   gtag('config', 'G-JXSLGQQ0VC');
 </script>
 
-![Cyber Back to School Logo](/images/Cyber_rectangular_logo_without_background.png)
+![Cyber Back to School Logo](/images/stacked.png)
 
 ## **2024 Cyber Back to School Session Schedule**
 
