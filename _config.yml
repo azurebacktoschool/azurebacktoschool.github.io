@@ -108,40 +108,22 @@ author:
   location         : "Global"
   email            :
   links:
-    - label: "Sessionize Call for Speakers"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "https://sessionize.com/azure-back-to-school-2024/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "http://azurebacktoschool.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/AzureBackto"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/DwayneNcloud"
+      url: "http://azurebacktoschool.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/azurebacktoschool/azurebacktoschool.github.io"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/DwayneNcloud"
-    - label: "Sessionize Call for Speakers"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "https://sessionize.com/azback2school2022/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/azurebacktoschool/azurebacktoschool.github.io"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "http://azurebacktoschool.com"
+      url: "http://azurebacktoschool.github.io"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
